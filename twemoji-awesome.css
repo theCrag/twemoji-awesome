@@ -6,7 +6,11 @@
   vertical-align: -0.1em;
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: 1em 1em; }
+  background-size: 1em 1em;
+  color: transparent;
+  overflow: hidden;
+  cursor: default;
+}
 
 .twa-lg {
   height: 1.33em;
